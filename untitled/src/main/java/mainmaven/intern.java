@@ -4,6 +4,7 @@ public class intern {
     private int id;
     private String name;
     private double GPA;
+    private double adda ;
     private String cvUrl;
     private String university;
     private String desiredTrack ;
